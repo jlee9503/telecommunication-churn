@@ -36,7 +36,7 @@
 - Result:
   - Logistic Regression model:
 
-    
+    ![Reduced Model](images/reduced-logistic-model.png)
 
   - Model Evaluation Metrics:
     - Pseudo R-squared = 0.6126
