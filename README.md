@@ -39,6 +39,8 @@
   - `PaymentMethod`: Customer's payment method
 - Confusion Matrix:
 
+  ![Confusion Matrix](images/confusion_matrix.png)
+
 - Performance Metrics:
   - Accuracy: 0.8996
   - Precision: 0.8275
